@@ -1,9 +1,11 @@
 import './App.css';
+import Greeting from './components/Greeting';
+
 export default function App() {
   return (
-    <div className='App'>
+    <div className="App">
       <h1>Welcome to the Code Review App</h1>
-      <p>This is the main view.</p>
+      <Greeting />
     </div>
   );
 }
