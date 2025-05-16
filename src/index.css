@@ -1,1 +1,18 @@
-body { margin: 0; font-family: sans-serif; background-color: #f0f0f0; }
+body {
+  margin: 1rem;
+  font-family: sans-serif;
+  background-color: #f0f0f0;
+  padding: 1rem;
+}
+
+.App {
+  margin-top: 16px;
+}
+
+h1, h2 {
+  margin-bottom: 42px;
+}
+
+div {
+  margin: 1rem;
+}
